@@ -4,6 +4,8 @@
 
 ### [4월 넷째주, 4주차] : JavaScript, Git & Github
 
+24.04.23 JavaScript route-controller-model 구조, QA & Github 이슈 업로드 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/Apr/2024-04-24.md))
+
 24.04.23 JavaScript route-controller-model 구조, Git & Github 오픈소스 contribute 구조 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/Apr/2024-04-23.md))
 
 24.04.22 JavaScript 심화 이론, Git & Github 이론 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/Apr/2024-04-22.md))
