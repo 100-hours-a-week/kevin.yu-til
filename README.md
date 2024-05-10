@@ -2,6 +2,11 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+
+### [5월 둘째주, 6주차] : JavaScript, React
+24.05.10 express-session과 dotenv ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-10.md))
+
+
 ### [4월 넷째주, 4주차] : JavaScript, Git & Github
 
 24.04.29 웹 응용 이론 (HTTPS, JWT, OAuth 등) ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/Apr/2024-04-29.md))
