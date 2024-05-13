@@ -4,6 +4,8 @@
 
 
 ### [5월 둘째주, 6주차] : JavaScript, React
+24.05.13 CORS 설정의 credentials 옵션 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-13.md)) 
+
 24.05.12 CS 스터디: JVM ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-12.md))
 
 24.05.10 express-session과 dotenv ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-10.md))
