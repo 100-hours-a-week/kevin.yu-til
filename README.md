@@ -2,12 +2,17 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
+### [5월 셋째주, 7주차] : JavaScript, HTTP
 
-### [5월 둘째주, 6주차] : JavaScript, React
+24.05.16 Preflight/Simple Request, HTTP 보안 헤더 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-16.md)) 
 
 24.05.14 서버에서 서버로 파일 전송하는 방법 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-14.md)) 
 
 24.05.13 CORS 설정의 credentials 옵션 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-13.md)) 
+
+<br />
+
+### [5월 둘째주, 6주차] : JavaScript
 
 24.05.12 CS 스터디: JVM ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-12.md))
 
