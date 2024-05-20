@@ -4,7 +4,9 @@
 
 ### [5월 셋째주, 7주차] : JavaScript, HTTP
 
-24.05.16 Preflight/Simple Request, HTTP 보안 헤더 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-16.md)) 
+24.05.17 Java 예외(Exception) ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-17.md))
+
+24.05.16 Preflight/Simple Request, HTTP 보안 헤더 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-16.md))
 
 24.05.14 서버에서 서버로 파일 전송하는 방법 ([상세 내역 링크](https://github.com/100-hours-a-week/kevin.yu-til/blob/main/May/2024-05-14.md)) 
 
